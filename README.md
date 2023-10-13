@@ -1,6 +1,6 @@
 <h1 align="left">Hi✋🏻 I’m Minseok Yoon.</h1>
 
-- 🎓 I am majoring in Industrial Engineering at Sungkyunkwan University(SKKU).
+- 🎓 I major in Industrial Engineering at Sungkyunkwan University(SKKU).
 
 - 🌱 I am a student interested in ML and DL.
   
@@ -11,7 +11,7 @@
 ### Experience
 In the overview below you will find past experiences or ongoing experiences:
 
-<img align="left" height="114px" width="150px" src="https://github.com/mminseok1/mminseok1/assets/123230900/b63e213e-72a6-48aa-a748-8008fe04db58"/>
+<img align="left" height="114px" width="180px" src="https://github.com/mminseok1/mminseok1/assets/123230900/b63e213e-72a6-48aa-a748-8008fe04db58"/>
 
 Samsung Electronics\
 (Intern) 2023. 03. 06 ~ 2023. 06. 23 \
@@ -19,10 +19,10 @@ Techniques :  `Python`, `ML`, `NLP`  \
 <br/>
 <br/>
 
-<img align="left" height="114px" width="150px" src="https://github.com/mminseok1/mminseok1/assets/123230900/82b15e7c-662e-442d-999e-10243f4ba978"/>
+<img align="left" height="114px" width="180px" src="https://github.com/mminseok1/mminseok1/assets/123230900/82b15e7c-662e-442d-999e-10243f4ba978"/>
 
 SKKU Quality Lab \
-(Undergraduate Student) 2022.12.01 ~ Ongoing \
+(Undergraduate Student) 2022. 12. 01 ~ 2023. 09. 01 \
 Techniques :  `Python`, `ML`, `DL` \
 <br/>
 <br/>
@@ -30,7 +30,7 @@ Techniques :  `Python`, `ML`, `DL` \
 <img align="left" height="114px" width="150px" src="https://github.com/mminseok1/mminseok1/assets/123230900/0685aa86-7433-43dd-86c6-088f8a82e9f0"/>
 
 SK Telecom Fly Ai \
-(Trainee) 2023. 06. 26 ~ Ongoing \
+(Trainee) 2023. 06. 26 ~ 2023. 08. 27 \
 Techniques :  `Python`, `ML`, `DL` 
 <br/>
 <br/>
